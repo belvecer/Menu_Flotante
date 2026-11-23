@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/accion_fondo"
+        android:title="Fondo verde" />
+    <item
+        android:id="@+id/accion_tamano"
+        android:title="Letra grande" />
+    <item
+        android:id="@+id/accion_texto"
+        android:title="Cambiar texto" />
+</menu>
